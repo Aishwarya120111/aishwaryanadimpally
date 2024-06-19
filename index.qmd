@@ -2,13 +2,11 @@
 title: "Aishwarya Nadimpally"
 ---
 
+![](headshot.jpg)
+
 Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.
 
 My expertise spans across various roles, including Data Analyst, Data Scientist, Conversation AI Developer, and Generative AI Developer. I have a strong background in data analysis, machine learning, and natural language processing, which allows me to create sophisticated AI models and applications.
-
-
-
-![](headshot.jpg)
 
 [Learn more about me](about.qmd)
 

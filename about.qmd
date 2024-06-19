@@ -2,10 +2,6 @@
 title: "About"
 ---
 
-# About Me
-
-Hi, I’m Aishwarya Nadimpally, a Data Scientist and AI Developer with a passion for creating intelligent systems that transform data into actionable insights. My journey in the tech world began with a Bachelor's in Electronics and Communication Engineering from Godavari Institute of Engineering and Technology, where I graduated with honors.
-
 After completing my undergraduate degree, I embarked on an exciting career at Tata Consultancy Services (TCS), where I spent over five years honing my skills in chatbot development, data analysis, and machine learning. At TCS, I had the privilege of leading a talented team of developers, and together, we built innovative chatbots that significantly improved customer support efficiency and user experience.
 
 ## What I Do
