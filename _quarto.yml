@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Aishwarya nadimpally"
+  title: "My Portfolio"
   navbar:
     left:
       - href: index.qmd

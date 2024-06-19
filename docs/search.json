@@ -4,48 +4,83 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Description: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.\nTechnologies Used: Python, SQL, Excel\nLink: GitHub Repository\nImages:"
+    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies $ Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: GitHub Repository\nImages:"
   },
   {
     "objectID": "projects.html#capstone-project---riotinto",
     "href": "projects.html#capstone-project---riotinto",
     "title": "Projects",
     "section": "",
-    "text": "Description: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.\nTechnologies Used: Python, SQL, Excel\nLink: GitHub Repository\nImages:"
+    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies $ Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: GitHub Repository\nImages:"
   },
   {
     "objectID": "projects.html#job-search-application",
     "href": "projects.html#job-search-application",
     "title": "Projects",
     "section": "Job Search Application",
-    "text": "Job Search Application\n\nDescription: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.\nTechnologies Used: Python, Google Generative AI, Streamlit\nLink: GitHub Repository\nImages:"
+    "text": "Job Search Application\n\nDescription: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.\nTechnologies Used: Python, Google Generative AI, Streamlit\nLink: GitHub Repository\nGIF:"
+  },
+  {
+    "objectID": "projects.html#home-scope-ubc-mds-coursework",
+    "href": "projects.html#home-scope-ubc-mds-coursework",
+    "title": "Projects",
+    "section": "Home Scope (UBC MDS Coursework)",
+    "text": "Home Scope (UBC MDS Coursework)\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, DASH, Altair, Plotly\nLink: GitHub Repository\nGIF:"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m currently completing my Master’s degree in Data Science at the University of British Columbia, working on a Capstone project with Rio Tinto."
+    "text": "Hi, I’m Aishwarya Nadimpally, a Data Scientist and AI Developer with a passion for creating intelligent systems that transform data into actionable insights. My journey in the tech world began with a Bachelor’s in Electronics and Communication Engineering from Godavari Institute of Engineering and Technology, where I graduated with honors.\nAfter completing my undergraduate degree, I embarked on an exciting career at Tata Consultancy Services (TCS), where I spent over five years honing my skills in chatbot development, data analysis, and machine learning. At TCS, I had the privilege of leading a talented team of developers, and together, we built innovative chatbots that significantly improved customer support efficiency and user experience.\n\n\nI specialize in:\n\nBuilding Intelligent Chatbots: Creating chatbots using platforms like AWS, Azure, Google and AVAAMO, integrating them seamlessly into client systems.\nData Analysis and Visualization: Utilizing tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights.\nMachine Learning and AI Development: Developing machine learning models to solve real-world problems, with a focus on NLP and generative AI technologies.\n\n\n\n\nMy curiosity and drive for continuous learning led me to pursue a Master’s degree in Data Science at the University of British Columbia. Here, I delved deeper into the realms of machine learning, natural language processing, and AI development. One of my most fulfilling projects was with Rio Tinto Exploration, where I developed a sophisticated data visualization tool and predictive models to identify mining trends.\n\n\n\n\n\n\nDeveloped a chatbot in AVAMMO using Python and NodeJS for a client product, supporting users with product documentation, installation, and technical issues.\nExtracted and analyzed data from SQL & chatbot logs, visualizing it using Power BI to help clients improve customer satisfaction.\nLed and trained a team of 4 developers, ensuring efficient project delivery and skill advancement.\nAchieved a 40% reduction in customer-raised issues on the support portal by developing a BOT that independently handled all L1 cases.\n\n\n\n\n\nCollaborated with the Digital Center of Excellence (CoE) team to develop chatbots across Azure, AWS, and Google platforms using Python.\nDeveloped a universal bot that streamlined three different bots, significantly improving cost efficiency for infrastructure maintenance.\nReceived the Best Employee of the Year award for the development of the universal bot.\n\n\n\n\n\nManaged business requirements, bot design, conversation analysis, and stakeholder reporting while supporting the team in coding and problem-solving.\nDeveloped conversation flows for chatbots using Python, integrated with AWS services, and implemented CI/CD pipelines with Jenkins and AWS CodePipeline.\n\n\n\n\n\nAcquired the ability to translate business requirements into precise technical specifications, while also proficiently analyzing data using SQL, VBA, and Excel/Pivot tables for effective visualization.\nManaged server upgrades, tool licensing, and delivered projects with effective stakeholder communication.\n\n\n\n\n\n\n\n\nDeveloped a framework and DASH application to wrangle data and extract drilling trends over a period of 10 years globally, providing intuitive visualization.\nBuilt a spatial-temporal trend prediction model to identify patterns in mining locations using a multi-output supervised learning model.\n\n\n\n\n\nThroughout my career, I’ve been recognized for my technical acumen and leadership abilities. Some highlights include:\n\nLeading the development of a chatbot that reduced customer support queries by 40%.\nReceiving the Best Employee of the Year award for developing a universal bot that streamlined multiple systems, enhancing efficiency.\nEarning the Academic Excellence Award during my undergraduate studies.\n\n\n\n\nI am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you’re looking for a skilled Data Scientist, an innovative AI Developer, or just want to discuss the latest trends in AI, feel free to reach out!\n\nLocation: Vancouver, BC\nContact: nadimpallyaishwarya@gmail.com\nLinkedIn: linkedin.com/in/aishwaryanadimpally\nPortfolio: aishwarya120111.github.io/aishwaryanadimpally\n\nThank you for visiting my portfolio. I look forward to connecting with you!\n\nDownload my Resume"
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
+    "objectID": "about.html#what-i-do",
+    "href": "about.html#what-i-do",
     "title": "About",
-    "section": "Skills",
-    "text": "Skills\n\nPython\nNodeJS\nSQL\nExcel\nLooker\nAzure\nAWS\nData Analysis\nStakeholder Engagement\nA/B Testing"
+    "section": "",
+    "text": "I specialize in:\n\nBuilding Intelligent Chatbots: Creating chatbots using platforms like AWS, Azure, Google and AVAAMO, integrating them seamlessly into client systems.\nData Analysis and Visualization: Utilizing tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights.\nMachine Learning and AI Development: Developing machine learning models to solve real-world problems, with a focus on NLP and generative AI technologies."
   },
   {
-    "objectID": "about.html#achievements",
-    "href": "about.html#achievements",
+    "objectID": "about.html#my-journey-in-data-science-and-ai",
+    "href": "about.html#my-journey-in-data-science-and-ai",
     "title": "About",
-    "section": "Achievements",
-    "text": "Achievements\n\nAwarded the Best Data Analyst at Tata Consultancy Services."
+    "section": "",
+    "text": "My curiosity and drive for continuous learning led me to pursue a Master’s degree in Data Science at the University of British Columbia. Here, I delved deeper into the realms of machine learning, natural language processing, and AI development. One of my most fulfilling projects was with Rio Tinto Exploration, where I developed a sophisticated data visualization tool and predictive models to identify mining trends."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "",
+    "text": "Developed a chatbot in AVAMMO using Python and NodeJS for a client product, supporting users with product documentation, installation, and technical issues.\nExtracted and analyzed data from SQL & chatbot logs, visualizing it using Power BI to help clients improve customer satisfaction.\nLed and trained a team of 4 developers, ensuring efficient project delivery and skill advancement.\nAchieved a 40% reduction in customer-raised issues on the support portal by developing a BOT that independently handled all L1 cases.\n\n\n\n\n\nCollaborated with the Digital Center of Excellence (CoE) team to develop chatbots across Azure, AWS, and Google platforms using Python.\nDeveloped a universal bot that streamlined three different bots, significantly improving cost efficiency for infrastructure maintenance.\nReceived the Best Employee of the Year award for the development of the universal bot.\n\n\n\n\n\nManaged business requirements, bot design, conversation analysis, and stakeholder reporting while supporting the team in coding and problem-solving.\nDeveloped conversation flows for chatbots using Python, integrated with AWS services, and implemented CI/CD pipelines with Jenkins and AWS CodePipeline.\n\n\n\n\n\nAcquired the ability to translate business requirements into precise technical specifications, while also proficiently analyzing data using SQL, VBA, and Excel/Pivot tables for effective visualization.\nManaged server upgrades, tool licensing, and delivered projects with effective stakeholder communication."
+  },
+  {
+    "objectID": "about.html#capstone-project",
+    "href": "about.html#capstone-project",
+    "title": "About",
+    "section": "",
+    "text": "Developed a framework and DASH application to wrangle data and extract drilling trends over a period of 10 years globally, providing intuitive visualization.\nBuilt a spatial-temporal trend prediction model to identify patterns in mining locations using a multi-output supervised learning model."
+  },
+  {
+    "objectID": "about.html#achievements-and-skills",
+    "href": "about.html#achievements-and-skills",
+    "title": "About",
+    "section": "",
+    "text": "Throughout my career, I’ve been recognized for my technical acumen and leadership abilities. Some highlights include:\n\nLeading the development of a chatbot that reduced customer support queries by 40%.\nReceiving the Best Employee of the Year award for developing a universal bot that streamlined multiple systems, enhancing efficiency.\nEarning the Academic Excellence Award during my undergraduate studies."
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About",
+    "section": "",
+    "text": "I am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you’re looking for a skilled Data Scientist, an innovative AI Developer, or just want to discuss the latest trends in AI, feel free to reach out!\n\nLocation: Vancouver, BC\nContact: nadimpallyaishwarya@gmail.com\nLinkedIn: linkedin.com/in/aishwaryanadimpally\nPortfolio: aishwarya120111.github.io/aishwaryanadimpally\n\nThank you for visiting my portfolio. I look forward to connecting with you!\n\nDownload my Resume"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aishwarya Nadimpally",
     "section": "",
-    "text": "Hi, I’m Aishwarya Nadimpally, a Data Scientist with a passion for deriving insights that help businesses and consumers.\n\nLearn more about me"
+    "text": "Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.\nMy expertise spans across various roles, including Data Analyst, Data Scientist, Conversation AI Developer, and Generative AI Developer. I have a strong background in data analysis, machine learning, and natural language processing, which allows me to create sophisticated AI models and applications.\n\nLearn more about me"
   }
 ]

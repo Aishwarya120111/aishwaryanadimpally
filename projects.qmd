@@ -3,15 +3,21 @@ title: "Projects"
 ---
 
 ## Capstone Project - RioTinto
-- **Description**: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.
-- **Technologies Used**: Python, SQL, Excel
+- **Description**: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.
+- **Technologies $ Libraries Used**: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson
 - **Link**: [GitHub Repository](#)
-- **Images**: ![Customer Segmentation Analysis](path/to/customer-segmentation-image.jpg)
+- **Images**: 
 
 ## Job Search Application
 - **Description**: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.
 - **Technologies Used**: Python, Google Generative AI, Streamlit
 - **Link**: [GitHub Repository](https://github.com/Aishwarya120111/job_search_application)
-- **Images**: ![Job Search Application](path/to/job-search-application-image.jpg)
+- **GIF**: ![](jobsearchapplication.gif)
+
+## Home Scope (UBC MDS Coursework)
+- **Description**: HomeScope is an analytical platform dedicated to illuminating the real estate market's complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.
+- **Technologies Used**: Python, DASH, Altair, Plotly
+- **Link**: [GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope/tree/main)
+- **GIF**: ![](homescope.gif)
 
 
