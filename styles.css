@@ -1,0 +1,16 @@
+/* css styles */
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-pic {
+    flex: 1;
+  }
+  
+  .content {
+    flex: 2;
+    margin-left: 20px;
+  }
+  

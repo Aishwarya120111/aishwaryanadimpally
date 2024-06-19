@@ -1,0 +1,9 @@
+---
+title: "Aishwarya Nadimpally"
+---
+
+Hi, I’m Aishwarya Nadimpally, a Data Scientist with a passion for deriving insights that help businesses and consumers.
+
+![](headshot.jpg)
+
+[Learn more about me](about.qmd)

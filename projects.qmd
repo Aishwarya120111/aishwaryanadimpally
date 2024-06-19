@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+## Capstone Project - RioTinto
+- **Description**: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.
+- **Technologies Used**: Python, SQL, Excel
+- **Link**: [GitHub Repository](#)
+- **Images**: ![Customer Segmentation Analysis](path/to/customer-segmentation-image.jpg)
+
+## Job Search Application
+- **Description**: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.
+- **Technologies Used**: Python, Google Generative AI, Streamlit
+- **Link**: [GitHub Repository](https://github.com/Aishwarya120111/job_search_application)
+- **Images**: ![Job Search Application](path/to/job-search-application-image.jpg)
+
+
