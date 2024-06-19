@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.\nTechnologies Used: Python, SQL, Excel\nLink: GitHub Repository\nImages:"
+  },
+  {
+    "objectID": "projects.html#capstone-project---riotinto",
+    "href": "projects.html#capstone-project---riotinto",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Performed customer segmentation using K-means clustering to help a retail client identify target customer groups. This project involved data cleaning, feature engineering, and model evaluation to ensure the best results.\nTechnologies Used: Python, SQL, Excel\nLink: GitHub Repository\nImages:"
+  },
+  {
+    "objectID": "projects.html#job-search-application",
+    "href": "projects.html#job-search-application",
+    "title": "Projects",
+    "section": "Job Search Application",
+    "text": "Job Search Application\n\nDescription: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.\nTechnologies Used: Python, Google Generative AI, Streamlit\nLink: GitHub Repository\nImages:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m currently completing my Master’s degree in Data Science at the University of British Columbia, working on a Capstone project with Rio Tinto."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nPython\nNodeJS\nSQL\nExcel\nLooker\nAzure\nAWS\nData Analysis\nStakeholder Engagement\nA/B Testing"
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About",
+    "section": "Achievements",
+    "text": "Achievements\n\nAwarded the Best Data Analyst at Tata Consultancy Services."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aishwarya Nadimpally",
+    "section": "",
+    "text": "Hi, I’m Aishwarya Nadimpally, a Data Scientist with a passion for deriving insights that help businesses and consumers.\n\nLearn more about me"
+  }
+]
