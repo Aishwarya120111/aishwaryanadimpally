@@ -13,10 +13,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup Quarto
+      - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: latest
+          version: stable  # Use 'stable' to ensure it uses the latest stable release
 
       - name: Render site
         run: quarto render
