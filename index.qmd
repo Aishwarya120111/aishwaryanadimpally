@@ -10,3 +10,4 @@ My expertise spans across various roles, including Data Analyst, Data Scientist,
 
 [Learn more about me](about.qmd)
 
+[Checkout My Projects](projects.qmd)

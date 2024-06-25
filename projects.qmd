@@ -4,9 +4,9 @@ title: "Projects"
 
 ## Capstone Project - RioTinto
 - **Description**: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.
-- **Technologies $ Libraries Used**: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson
-- **Link**: [GitHub Repository](#)
-- **Images**: 
+- **Technologies/Libraries Used**: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson
+- **Link**: To be uploaded
+- **Images**: To be uploaded
 
 ## Job Search Application
 - **Description**: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.
