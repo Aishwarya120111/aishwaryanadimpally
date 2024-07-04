@@ -4,14 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies/Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: To be uploaded\nImages: To be uploaded"
+    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies/Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: Due to the confidentiality of data, I am not disclosing the project GitHub repository.\nGIF:"
   },
   {
     "objectID": "projects.html#capstone-project---riotinto",
     "href": "projects.html#capstone-project---riotinto",
     "title": "Projects",
     "section": "",
-    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies/Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: To be uploaded\nImages: To be uploaded"
+    "text": "Description: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.\nTechnologies/Libraries Used: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson\nLink: Due to the confidentiality of data, I am not disclosing the project GitHub repository.\nGIF:"
+  },
+  {
+    "objectID": "projects.html#home-scope-ubc-mds-coursework---dashboard",
+    "href": "projects.html#home-scope-ubc-mds-coursework---dashboard",
+    "title": "Projects",
+    "section": "Home Scope (UBC MDS Coursework - Dashboard)",
+    "text": "Home Scope (UBC MDS Coursework - Dashboard)\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, DASH, Altair, Plotly\nLink: GitHub Repository\nGIF:"
   },
   {
     "objectID": "projects.html#job-search-application",
@@ -21,11 +28,11 @@
     "text": "Job Search Application\n\nDescription: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.\nTechnologies Used: Python, Google Generative AI, Streamlit\nLink: GitHub Repository\nGIF:"
   },
   {
-    "objectID": "projects.html#home-scope-ubc-mds-coursework",
-    "href": "projects.html#home-scope-ubc-mds-coursework",
+    "objectID": "projects.html#chatbot-conversations-classfication-application",
+    "href": "projects.html#chatbot-conversations-classfication-application",
     "title": "Projects",
-    "section": "Home Scope (UBC MDS Coursework)",
-    "text": "Home Scope (UBC MDS Coursework)\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, DASH, Altair, Plotly\nLink: GitHub Repository\nGIF:"
+    "section": "Chatbot Conversations Classfication Application",
+    "text": "Chatbot Conversations Classfication Application\n\nDescription: This Streamlit application allows users to upload an Excel file containing chatbot queries, classify them using a pre-trained BERT model, and download the predictions in an Excel file.This tool is particularly useful for teams in customer support, data analytics, and natural language processing who need efficient query classification and analysis.\nTechnologies Used: Python, Transformers, Streamlit, Pandas, Torch, Scikit-Learn\nLink: GitHub Repository\nGIF:"
   },
   {
     "objectID": "about.html",

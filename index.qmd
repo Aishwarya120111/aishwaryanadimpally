@@ -1,8 +1,13 @@
 ---
 title: "Aishwarya Nadimpally"
+format: 
+  html:
+    css: styles.css
 ---
 
-![](headshot.jpg)
+<div class="container">
+  <img src="headshot.jpg" alt="Aishwarya Nadimpally" />
+</div>
 
 Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.
 
