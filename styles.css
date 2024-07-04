@@ -1,19 +1,10 @@
 .container {
   display: flex;
   align-items: flex-start;
-  flex-wrap: wrap; /* Allow content to wrap */
-  max-width: 100%; /* Ensure the container fits within the page */
-}
+ }
 
 .container img {
   width: 200px; /* Adjust this value as needed */
   margin-right: 20px;
 }
 
-.container .content {
-  flex: 1;
-  line-height: 1.5; /* Ensure proper line spacing */
-  text-align: left; /* Ensure text alignment */
-  max-width: 100%; /* Allow the content to use the full width available */
-  white-space: normal; /* Ensure normal text wrapping */
-}
