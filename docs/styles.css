@@ -11,3 +11,7 @@ img, svg {
   vertical-align: middle;
   width: 150px;
 }
+.img-fluid {
+  width: 80%;
+  height: max-content;
+}
