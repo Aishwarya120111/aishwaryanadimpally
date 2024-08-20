@@ -1,17 +1,82 @@
 .container {
   display: flex;
-  align-items: flex-start;
- }
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
 
 .container img {
-  width: 200px; /* Adjust this value as needed */
-  margin-right: 20px;
+  width: 200px;
+  margin-bottom: 20px;
 }
-img, svg {
-  vertical-align: middle;
-  width: 150px;
+
+.container a img {
+  width: 20px;
+  height: auto;
 }
-.img-fluid {
-  width: 80%;
-  height: max-content;
+
+h1.title {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #333;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+}
+
+.card a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.card.about {
+  background-color: #5d7183;
+}
+
+.card.projects {
+  background-color: #5d7183;
+}
+
+.card.resume {
+  background-color: #5d7183;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card h2, .card p {
+  margin: 0;
+  padding: 5px 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }

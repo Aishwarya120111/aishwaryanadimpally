@@ -35,6 +35,13 @@
     "text": "Chatbot Conversations Classfication Application\n\nDescription: This Streamlit application allows users to upload an Excel file containing chatbot queries, classify them using a pre-trained BERT model, and download the predictions in an Excel file.This tool is particularly useful for teams in customer support, data analytics, and natural language processing who need efficient query classification and analysis.\nTechnologies Used: Python, Transformers, Streamlit, Pandas, Torch, Scikit-Learn\nLink: GitHub Repository\nGIF:"
   },
   {
+    "objectID": "projects.html#churn-insights-analysis-prediction",
+    "href": "projects.html#churn-insights-analysis-prediction",
+    "title": "Projects",
+    "section": "Churn Insights Analysis & prediction",
+    "text": "Churn Insights Analysis & prediction\n\nDescription: Developed a framework for performing ETL and data cleaning in PostgreSQL, followed by transforming data and creating enhanced visualizations in Tableau. Built and evaluated machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, to predict outcomes, selecting the best model after thorough EDA.\nTechnologies Used: Python (Scikit-Learn, Altair, Plotly, PyTorch), PostgreSQL, Tableau\nLink: GitHub Repository\nGIF:"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -77,17 +84,10 @@
     "text": "Achievements and Skills\nThroughout my career, I’ve been recognized for my technical acumen and leadership abilities. Some highlights include:\n\nLeading the development of a chatbot that reduced customer support queries by 40%.\nReceiving the Best Employee of the Year award for developing a universal bot that streamlined multiple systems, enhancing efficiency.\nEarning the Academic Excellence Award during my undergraduate studies."
   },
   {
-    "objectID": "about.html#lets-connect",
-    "href": "about.html#lets-connect",
-    "title": "About Me",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nI am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you’re looking for a skilled Data Scientist, an innovative AI Developer, or just want to discuss the latest trends in AI, feel free to reach out!\n\nLocation: Vancouver, BC\nContact: nadimpallyaishwarya@gmail.com\nLinkedIn: linkedin.com/in/aishwaryanadimpally\nPortfolio: aishwarya120111.github.io/aishwaryanadimpally\n\nThank you for visiting my portfolio. I look forward to connecting with you!\n\nDownload my Resume"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aishwarya Nadimpally",
     "section": "",
-    "text": "Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.\nMy expertise spans across various roles, including Data Analyst, Data Scientist, Conversation AI Developer, and Generative AI Developer. I have a strong background in data analysis, machine learning, and natural language processing, which allows me to create sophisticated AI models and applications.\nLearn more about me\nCheckout My Projects"
+    "text": "Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.\nMy expertise spans across various roles, including Data Analyst, Data Scientist, Conversation AI Developer, and Generative AI Developer. I have a strong background in data analysis, machine learning, and natural language processing, which allows me to create sophisticated AI models and applications.\n\n\n\n\nAbout\n\n\nLearn more about me\n\n \n\nProjects\n\n\nCheckout My Work\n\n \n\nResume\n\n\nView my resume"
   }
 ]

@@ -4,6 +4,7 @@ title: "About Me"
 
 After completing my undergraduate degree, I embarked on an exciting career at Tata Consultancy Services (TCS), where I spent over five years honing my skills in chatbot development, data analysis, and machine learning. At TCS, I had the privilege of leading a talented team of developers, and together, we built innovative chatbots that significantly improved customer support efficiency and user experience.
 
+
 ## What I Do
 
 I specialize in:
@@ -43,8 +44,6 @@ My curiosity and drive for continuous learning led me to pursue a Master’s deg
 - Developed a framework and DASH application to wrangle data and extract drilling trends over a period of 10 years globally, providing intuitive visualization.
 - Built a spatial-temporal trend prediction model to identify patterns in mining locations using a multi-output supervised learning model.
 
-
-
 ## Achievements and Skills
 
 Throughout my career, I've been recognized for my technical acumen and leadership abilities. Some highlights include:
@@ -53,17 +52,3 @@ Throughout my career, I've been recognized for my technical acumen and leadershi
 - Receiving the Best Employee of the Year award for developing a universal bot that streamlined multiple systems, enhancing efficiency.
 - Earning the Academic Excellence Award during my undergraduate studies.
 
-## Let's Connect
-
-I am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you're looking for a skilled Data Scientist, an innovative AI Developer, or just want to discuss the latest trends in AI, feel free to reach out!
-
-- **Location**: Vancouver, BC
-- **Contact**: [nadimpallyaishwarya@gmail.com](mailto:nadimpallyaishwarya@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aishwaryanadimpally](https://www.linkedin.com/in/aishwaryanadimpally)
-- **Portfolio**: [aishwarya120111.github.io/aishwaryanadimpally](https://aishwarya120111.github.io/aishwaryanadimpally)
-
-Thank you for visiting my portfolio. I look forward to connecting with you!
-
----
-
-[Download my Resume](resume.pdf)

@@ -6,27 +6,32 @@ title: "Projects"
 - **Description**: Developed a framework for wrangling data to extract drilling trends over 10 years on a global scale, with an intuitive application for visualization, and built a spatial-temporal trend prediction of mining locations by identifying patterns.
 - **Technologies/Libraries Used**: Python, DASH, Plotly, HTML, CSS, H3, sklearn, geojson
 - **Link**: Due to the confidentiality of data, I am not disclosing the project GitHub repository.
-- **GIF**: ![](capstoneproject.gif)
+- **GIF**: ![](img/capstoneproject.gif)
 
 ## Home Scope (UBC MDS Coursework - Dashboard)
 - **Description**: HomeScope is an analytical platform dedicated to illuminating the real estate market's complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.
 - **Technologies Used**: Python, DASH, Altair, Plotly
 - **Link**: [GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope/tree/main)
-- **GIF**: ![](homescope.gif)
+- **GIF**: ![](img/homescope.gif)
 
 ## Job Search Application
 - **Description**: Developed a job search application using Google Generative AI to simplify the job search process. The application provides custom matching scores, identifies missing skills, and includes job application links based on each uploaded resume.
 - **Technologies Used**: Python, Google Generative AI, Streamlit
 - **Link**: [GitHub Repository](https://github.com/Aishwarya120111/job_search_application)
-- **GIF**: ![](jobsearchapplication.gif)
-
-
+- **GIF**: ![](img/jobsearchapplication.gif)
 
 ## Chatbot Conversations Classfication Application
 - **Description**: This Streamlit application allows users to upload an Excel file containing chatbot queries, classify them using a pre-trained BERT model, and download the predictions in an Excel file.This tool is particularly useful for teams in customer support, data analytics, and natural language processing who need efficient query classification and analysis.
 - **Technologies Used**: Python, Transformers, Streamlit, Pandas, Torch, Scikit-Learn
 - **Link**: [GitHub Repository](https://github.com/Aishwarya120111/chatbot_conversation_classification)
-- **GIF**: ![](bertmodel.gif)
+- **GIF**: ![](img/bertmodel.gif)
+
+## Churn Insights Analysis & prediction
+- **Description**: Developed a framework for performing ETL and data cleaning in PostgreSQL, followed by transforming data and creating enhanced visualizations in Tableau. Built and evaluated machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, to predict outcomes, selecting the best model after thorough EDA.
+- **Technologies Used**: Python (Scikit-Learn, Altair, Plotly, PyTorch), PostgreSQL, Tableau
+- **Link**: [GitHub Repository](https://github.com/iris0614/Churn-Insights-Project)
+- **GIF**: ![](img/Churn_insights.gif)
+
 
 
 

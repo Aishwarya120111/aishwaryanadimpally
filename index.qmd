@@ -6,13 +6,26 @@ format:
 ---
 
 <div class="container">
-  <img src="headshot.jpg" alt="Aishwarya Nadimpally" />
+  <img src="img/headshot2.jpg" alt="Aishwarya Nadimpally" height=300 width=200 />
 </div>
 
+<p>
 Hi, I’m Aishwarya Nadimpally, a skilled Data Scientist and AI Developer with a Master’s degree in Data Science and over five years of experience in building innovative chatbots and AI solutions. I specialize in leveraging data to drive insights and develop intelligent systems that enhance user experiences and optimize business operations.
 
 My expertise spans across various roles, including Data Analyst, Data Scientist, Conversation AI Developer, and Generative AI Developer. I have a strong background in data analysis, machine learning, and natural language processing, which allows me to create sophisticated AI models and applications.
+</p>
 
-[Learn more about me](about.qmd)
-
-[Checkout My Projects](projects.qmd)
+<section class="cards-container">
+  <a href="about.qmd" class="card about">
+    <h2>About</h2>
+    <p>Learn more about me</p>
+  </a>
+  <a href="projects.qmd" class="card projects">
+    <h2>Projects</h2>
+    <p>Checkout My Work</p>
+  </a>
+  <a href="img/AishwaryaResume.pdf" target="_blank" class="card resume">
+    <h2>Resume</h2>
+    <p>View my resume</p>
+  </a>
+</section>

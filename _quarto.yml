@@ -2,19 +2,22 @@ project:
   type: website
 
 website:
+  favicon: "img/Designer.jpeg"
   title: "My Portfolio"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - projects.qmd
+    right:
+      - href: https://www.linkedin.com/in/aishwaryanadimpally
+        icon: linkedin
+      - href: mailto:nadimpallyaishwarya@gmail.com
+        icon: envelope
+      - href: https://github.com/Aishwarya120111
+        icon: github
+      - href: AishwaryaResume.pdf
+        icon: file-pdf
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
